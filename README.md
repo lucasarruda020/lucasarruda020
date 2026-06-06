@@ -77,69 +77,21 @@ Recentemente desenvolvi agentes de IA para suporte interno e externo, utilizando
 - Backend Development
 - Arquitetura de Sistemas
 - Git & GitHub
+- Desenvolvimento RPA em Python
+- SQL e MongoDB
+- Java
+- Vue.js
+- C++
+- Visual Basic
 
 ---
 
-### 🗄️ Banco de Dados
-
-- MongoDB
-- SQL
-- Modelagem de Dados
-- Validação de Dados
-- Processamento de Dados
-
----
-
-### ⚙️ Automação & IA Aplicada
-
-- n8n
-- Make
-- Microsoft Copilot Studio
-- Python Automation
-- RPA
-- Integração de APIs
-- Workflows Inteligentes
-
----
-
-## 📌 Projetos em Destaque
-
-### 🤖 Assistente Inteligente com RAG
-
-Sistema de consulta documental utilizando LangChain, embeddings e busca semântica para recuperação contextual de informações.
-
-### 👕 Classificação de Imagens com TensorFlow e Keras
-
-Treinamento e avaliação de redes neurais utilizando o dataset Fashion MNIST para classificação de imagens.
-
-### 🧠 Agentes Inteligentes para Atendimento
-
-Desenvolvimento de agentes capazes de interpretar documentação técnica, responder dúvidas e realizar escalonamento automático de incidentes.
-
-### 📊 Análise de Dados com Python
-
-Projetos de exploração, transformação e visualização de dados utilizando Pandas, NumPy e bibliotecas do ecossistema Python.
-
----
 
 ## 🎓 Formação
 
 - Bacharelado em Engenharia da Computação
 - MBA em Data Science & Analytics — USP/ESALQ
 
----
-
-## 📜 Certificações
-
-- Artificial Intelligence (AI) — Huawei
-- Cloud Computing — Huawei
-- Arquiteturas RAG com LLMs — Alura
-- Python com Inteligência Artificial Aplicada — Alura
-- Keras: Primeiros Passos para Redes Neurais — Alura
-- Análise de Dados em Python
-- Copilot Studio
-- Integração n8n com IA
-- Computação Quântica com IBM Qiskit
 
 ---
 
@@ -148,4 +100,3 @@ Projetos de exploração, transformação e visualização de dados utilizando P
 💼 LinkedIn: https://www.linkedin.com/in/lucasarruda-silva/
 
 📧 Email: lucasarruda020@gmail.com
-```
