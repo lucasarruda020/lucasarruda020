@@ -143,12 +143,6 @@ Projetos de exploração, transformação e visualização de dados utilizando P
 
 ---
 
-## 📈 Estatísticas GitHub
-
-![Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasarruda020&show_icons=true)
-
----
-
 ## 📫 Contato
 
 💼 LinkedIn: https://www.linkedin.com/in/lucasarruda-silva/
