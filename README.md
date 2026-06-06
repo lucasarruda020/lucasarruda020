@@ -1,4 +1,4 @@
-```md
+
 # Olá, eu sou Lucas Arruda 👋
 
 🎓 Engenheiro da Computação
