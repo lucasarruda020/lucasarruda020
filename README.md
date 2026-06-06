@@ -1,7 +1,7 @@
 
 # Olá, eu sou Lucas Arruda 👋
 
-🎓 Engenheiro da Computação
+🎓 Engenheiro da Computação (Universidade Sao Judas Tadeu)
 
 📚 Pós-Graduando em Data Science & Analytics (USP/ESALQ)
 
