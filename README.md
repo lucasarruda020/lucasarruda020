@@ -15,7 +15,7 @@
 
 Sou Engenheiro da Computação com experiência em desenvolvimento de software, integrações corporativas e automação de processos.
 
-Ao longo da minha trajetória, participei de projetos de alta criticidade envolvendo APIs, sistemas distribuídos, validação de dados, automação corporativa e desenvolvimento backend em Java e Vue.js aonde fiz estagio de "Desenvolvedor de Software" na empresa **Huawei Brasil**. Atualmente concentro meus estudos e projetos em Inteligência Artificial, Machine Learning, IA Generativa e Engenharia de Dados.
+Ao longo da minha trajetória, participei de projetos de alta criticidade envolvendo APIs, sistemas distribuídos, validação de dados, automação corporativa e desenvolvimento backend em Java e Vue.js aonde fiz estagio de "Desenvolvedor de Software" na empresa **Huawei Brasil** por dois anos. Atualmente concentro meus estudos e projetos em Inteligência Artificial, Machine Learning, IA Generativa e Engenharia de Dados.
 
 Além da formação acadêmica, desenvolvo soluções utilizando LLMs, arquiteturas RAG, agentes inteligentes e automações baseadas em IA, aplicando conceitos em projetos pessoais e corporativos.
 
