@@ -15,8 +15,7 @@
 
 Sou Engenheiro da Computação com experiência em desenvolvimento de software, integrações corporativas e automação de processos.
 
-Ao longo da minha trajetória, participei de projetos de alta criticidade envolvendo APIs, sistemas distribuídos, validação de dados, automação corporativa e desenvolvimento backend em Java e Vue.js aonde fiz estagio de "Desenvolvedor de Software" na empresa **Huawei Brasil** por dois anos. Atualmente concentro meus estudos e projetos em Inteligência Artificial, Machine Learning, IA Generativa e Engenharia de Dados.
-
+Ao longo da minha trajetória, participei de projetos de alta criticidade envolvendo APIs, sistemas distribuídos, validação de dados, automação corporativa e desenvolvimento backend em Java e Vue.js aonde fiz estagio de "Desenvolvedor de Software" na empresa **Huawei Brasil** por dois anos. Atualmente concentro meus estudos e projetos em Inteligência Artificial, Machine Learning & Trabalho como Engenharia de API dentro da **Keeta Delivery Brazil**
 Além da formação acadêmica, desenvolvo soluções utilizando LLMs, arquiteturas RAG, agentes inteligentes e automações baseadas em IA, aplicando conceitos em projetos pessoais e corporativos.
 
 Recentemente desenvolvi agentes de IA para suporte interno e externo, utilizando recuperação contextual de documentos, embeddings e busca semântica para otimizar o acesso à informação e reduzir o tempo de atendimento, dei o nome de "Hari Seldon" pois é o meu personagem predileto do meu livro favorito "Fundação" !
